@@ -1,8 +1,0 @@
-# exclude everything except directory foo/bar
-/*
-!/api
-!/ripio
-!/users
-/api/migrations/*
-/ripio/migrations/*
-/users/migrations/*
