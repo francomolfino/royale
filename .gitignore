@@ -1,0 +1,10 @@
+db.sqlite3
+api/migrations/*
+ripio/migrations/*
+users/migrations/*
+bin/
+include/
+lib/
+local/
+manage.py
+pip-selfcheck.json
